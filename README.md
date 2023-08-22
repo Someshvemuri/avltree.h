@@ -71,3 +71,5 @@ Stdev   : 10945.4082 us,
 95%     : 55325.1250 us,
 99%     : 85706.6562 us,
 99.9%   : 119719.9375 us,
+
+Credits - https://github.com/frozenca/CLRS/blob/main/core/rbtree.h
