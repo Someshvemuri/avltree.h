@@ -1,5 +1,5 @@
 # avltree.h
-Here STL is written in AVL Tree and compared with the STL by GNU which is written in Red-Black-Trees.\
+Here STL uses AVL Tree as container and compared with the STL by GNU which uses Red-Black-Trees as container.\
 \
 It all started while knowing about why Set's Operations like Insertion takes O(1) and came to know it is implemented using Balanced Trees and using Red-Black-Trees, I wanted to create my own container like Hash-Set and I saw this Repository of STL in Red-Black-Tree containers(https://github.com/frozenca/CLRS/blob/main/core/rbtree.h). I quickly took help from Chat-GPT and few functions written by me of STL using AVLTree containers. The reason I didn't write using B-Tree is, there is already a Google Open Source Blog on this(https://opensource.googleblog.com/2013/01/c-containers-that-save-memory-and-time.html?m=1) and I did compared both STL's and recorded the observations\
 \
